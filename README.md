@@ -161,13 +161,13 @@ Business intelligence dashboard using Power BI.
 
 # 🏅 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
+![](https://github-profile-trophy.vercel.app/?username=Sujal890-lang&theme=algolia)
 
 ---
 
 # 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sujal890-lang&theme=react-dark)
 
 ---
 
