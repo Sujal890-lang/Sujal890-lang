@@ -1,99 +1,69 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sujal Kumar</h1>
 
-# Hi 👋, I'm Sujal Kumar
+<h3 align="center">📊 Data Analyst | 🤖 AI/ML Enthusiast | 🐍 Python Developer</h3>
 
-### 🚀 B.Tech CSE (AI & ML) Student | Aspiring AI/ML Engineer | Data Analytics Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Learner;Power+BI+%7C+Python+%7C+SQL;Building+Real+World+Projects;Always+Learning+New+Technologies" />
-
-</div>
-
----
-
-# 💫 About Me
-
-🎓 B.Tech Computer Science Engineering (AI & ML)
-
-🌱 Currently learning
-- Machine Learning
-- Deep Learning
-- Data Analytics
-- MERN Stack Development
-
-💡 Interested in
-- Artificial Intelligence
-- Data Science
-- Full Stack Development
-- Open Source
-
-🎯 Goal
-Become an AI/ML Engineer and build impactful real-world products.
+<p align="center">
+  <a href="https://github.com/Sujal890-lang">
+    <img src="https://img.shields.io/github/followers/Sujal890-lang?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Sujal890-lang">
+    <img src="https://img.shields.io/github/stars/Sujal890-lang?label=Stars&style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-# 🛠 Tech Stack
+# 🧑‍💻 About Me
 
-## Languages
+🎓 B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+📊 Passionate about **Data Analytics, Business Intelligence and Machine Learning**
 
----
+🐍 Building data-driven solutions using **Python, SQL, Pandas, NumPy and Power BI**
 
-## Frontend
+🤖 Exploring **Machine Learning, Deep Learning and Generative AI**
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+💡 I enjoy turning raw data into **useful insights, dashboards and real-world applications**
 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+🚀 My goal is to become an **AI/ML Engineer** and build impactful products.
 
 ---
 
-## Backend
+# 🛠️ Tech Stack
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+### 💻 Programming
 
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
----
+### 📊 Data Analytics & Visualization
 
-## Database
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
----
+### 🌐 Web Development
 
-## Data Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
 
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
-- Excel
-- Jupyter Notebook
+### 🛠️ Tools
 
----
-
-## Tools
-
-Git
-
-GitHub
-
-VS Code
-
-Postman
-
-Figma
-
-Canva
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
 
 ---
 
@@ -101,87 +71,129 @@ Canva
 
 ### 📈 IPL Data Analytics Dashboard
 
-- Python
-- Pandas
-- Power BI
-- Data Visualization
+Interactive dashboard for analyzing IPL performance, trends and statistics.
+
+**Tech:** Python • Pandas • Power BI • Data Visualization
+
+---
+
+### 💰 SpendWise – Personal Expense & Income Tracker
+
+A modern personal finance web application for tracking income, expenses, budgets and savings in Indian Rupees.
+
+**Tech:** HTML • CSS • JavaScript • Chart.js • LocalStorage
+
+🔗 **Live Demo:** https://spendwise-expense-tracker-chi.vercel.app
 
 ---
 
 ### 🚗 Car Price Prediction
 
-Machine Learning model to predict vehicle prices.
+Machine Learning project that predicts vehicle prices from automobile data.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn
 
 ---
 
-### 📊 Sales Analytics Dashboard
+### 🛒 E-Commerce Analytics Dashboard
 
-Interactive dashboard with KPIs and business insights.
+Interactive dashboard designed to analyze sales, revenue, customer behavior and business KPIs.
 
----
-
-### 🛒 E-Commerce Dashboard
-
-Business intelligence dashboard using Power BI.
+**Tech:** JavaScript • Data Visualization • Dashboard Development
 
 ---
 
 # 📚 Currently Learning
 
-- Advanced Machine Learning
-- Deep Learning
-- System Design
-- MERN Stack
-- DSA
-- Generative AI
+* 🤖 Advanced Machine Learning
+* 🧠 Deep Learning
+* ✨ Generative AI
+* 📊 Advanced Data Analytics
+* 🗄️ SQL & Database Management
+* 🌐 Full Stack Development
+* 🧩 Data Structures & Algorithms
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Experience
 
 🏅 Deloitte Data Analytics Virtual Experience
 
-🏅 Power BI
+🏅 Data Analytics Internship
 
-🏅 SQL
+🏅 Web Development Internship
 
-🏅 Web Development
+🏅 Power BI & SQL Projects
 
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sujal890-lang&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sujal890-lang&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal890-lang&layout=compact&theme=tokyonight)
+🏅 Machine Learning Projects
 
 ---
 
-# 📊 Contribution Graph
+# 📊 GitHub Analytics
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sujal890-lang&theme=react-dark)
-
----
-
-# 🌐 Connect with Me
-
-- LinkedIn: www.linkedin.com/in/sujal-kumar-166b9040a
-- Email: sujalmahto889@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujal890-lang&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal890-lang&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
 
 ---
 
-# ✨ Quote
+# 🔥 GitHub Streak
 
-> "Success comes from continuous learning and consistent effort."
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sujal890-lang&theme=tokyonight&hide_border=true">
+</p>
 
 ---
 
-<div align="center">
+# 📈 Contribution Graph
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujal890-lang&theme=tokyo-night&hide_border=true">
+</p>
 
-If you like my work, don't forget to ⭐ my repositories.
+---
 
-</div>
+# 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/sujal-kumar-166b9040a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Sujal890-lang">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:sujalmahto889@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+🚀 Build more real-world AI/ML projects
+
+📊 Create advanced Data Analytics dashboards
+
+🤖 Strengthen Machine Learning & Deep Learning skills
+
+💻 Contribute to Open Source
+
+💼 Become industry-ready for AI/ML & Data Analytics roles
+
+---
+
+# 💡 Quote
+
+> **"Learn continuously. Build consistently. Let your work speak for you."**
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <b>Let's build something impactful together 🚀</b>
+</p>
